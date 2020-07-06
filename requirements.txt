@@ -1,0 +1,11 @@
+flask
+gunicorn
+gevent
+pymongo
+pymongoext>=2.3.2
+pandas
+pytest
+requests
+flask-cors
+python-dotenv
+
